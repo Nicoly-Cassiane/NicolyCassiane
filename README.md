@@ -38,16 +38,6 @@ Meu objetivo é criar soluções digitais que ofereçam **beleza**, **funcionali
 
 ---
 
-## 🌱 Habilidades adicionais
-
-- Excel Avançado
-- Administração e Gestão de Pessoas
-- Comunicação clara e eficaz
-- Capacidade de trabalhar de forma colaborativa e remota
-- Gestão de Tempo e Prioridades
-
----
-
 ## 📫 Vamos conversar?
 
 📧 **Email:** nicolycassiane1904@gmail.com  
