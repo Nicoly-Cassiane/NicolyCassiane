@@ -1,50 +1,24 @@
-# NicolyCassiane
-<h1 align="center">Nicoly Cassiane</h1>
 
-<p align="center">
-    Desenvolvedora Front-End | Criadora de interfaces acessíveis e inovadoras  
-    Sempre em busca de soluções criativas e eficientes para transformar ideias em realidade.
-</p>
+  <header>
+    <h1>Nicoly Cassiane</h1>
+    <p>Desenvolvedora Full Stack apaixonada por transformar ideias em soluções incríveis ✨</p>
+  </header>
 
----
+  <main class="container">
+    <section>
+      <h2>Sobre Mim</h2>
+      <p>Sou uma desenvolvedora Full Stack com foco em Front-End e Back-End. Amo transformar códigos em experiências mágicas e interfaces intuitivas. Estou sempre estudando e evoluindo para entregar o melhor da tecnologia com carinho, detalhe e criatividade 💖</p>
+    </section>
 
-## 🧠 Sobre Mim
+    
+    
 
-Olá, sou a **Nicoly Cassiane**, desenvolvedora Front-End em constante evolução.  
-Tenho uma paixão por criar interfaces modernas, limpas e altamente funcionais.  
-Com um olhar detalhista e uma abordagem focada em experiência de usuário, busco sempre **simplificar** e **aprimorar** a interação entre as pessoas e as tecnologias.
 
-Meu objetivo é criar soluções digitais que ofereçam **beleza**, **funcionalidade** e **acessibilidade**. Acredito no poder do design e da programação para impactar positivamente a vida das pessoas.
 
----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-## 💻 Tecnologias que utilizo
 
-- **HTML5** • **CSS3** • **JavaScript (ES6+)**
-- **React.js** (em aprendizado)
-- **Git & GitHub** (versionamento e controle de código)
-- **Figma** (para criação de protótipos de alta qualidade)
-- **VS Code** (IDE para desenvolvimento)
 
----
 
-## 📚 Em aprendizado
 
-- **React.js Avançado**
-- **TypeScript**
-- **Boas práticas em Acessibilidade**
-- **Design Responsivo e Mobile-First**
-- **Animações com CSS e Framer Motion**
 
----
-
-## 📫 Vamos conversar?
-
-📧 **Email:** nicolycassiane1904@gmail.com  
-📍 **Localização:** Paraná — Brasil  
-
----
-
-<p align="center">
-*“O código é a arte que conecta pessoas e possibilidades.”*
-</p>
